@@ -1,7 +1,7 @@
 Рейтинг фильмов
 ===
 
-[GitHub Pages](https://budton.github.io/ra_props_films/)
+[GitHub Pages](https://BudTon.github.io/ra_props_films/)
 
 Необходимо реализовать компонент, отображающий рейтинг фильма в виде звёзд:
 ![Список фильмов](./assets/preview.png)
